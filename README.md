@@ -1,4 +1,4 @@
-# Created AWS VPC and its components using Terraform 
+# Create AWS VPC and its components using Terraform 
 
 1. Install Terraform on your local machine.
 2. Configure AWS credentials on your local machine.
